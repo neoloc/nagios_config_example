@@ -1,6 +1,6 @@
 # Documentation: NAGIOS for Health
 
-This nagios repository has been sanatized of all private information in the `objects/hosts/live` directory, `all the `objects/hostgroups/host_hostgroups*` files and this README.md file. It now serves as an example of my work.
+This nagios repository has been sanatized of all private information in the `objects/hosts/live` directory, all the `objects/hostgroups/host_hostgroups*` files and this README.md file. It now serves as an example of my work.
 
 ## Table of Contents
 
